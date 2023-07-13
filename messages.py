@@ -35,8 +35,7 @@ present_continuous_structure_msg = ("""
 
 • <b>Вопросительные предложения</b> (Question Sentences): 
     Am/Is/Are + <i>Subject</i> + Verb (глагол с окончанием -ing) + <i>Object</i>?
-"""
-)
+""")
 
 present_continuous_examples_msg = ("""
 1. <b>Положительные предложения</b> (Positive Sentences):
@@ -240,19 +239,19 @@ future_simple_structure_msg = ("""
 
 future_simple_examples_msg = ("""
 1. <b>Положительные предложения</b> (Positive Sentences):
-    • I will visit my grandparents tomorrow. (Я посещу своих бабушку и дедушку завтра).
-    • She will start a new job next week. (Она начнет новую работу на следующей неделе).
-    • We will have dinner at a restaurant tonight. (Мы поужинаем в ресторане сегодня вечером).
+    • I will visit my grandparents tomorrow. (<i>Я посещу своих бабушку и дедушку завтра</i>).
+    • She will start a new job next week. (<i>Она начнет новую работу на следующей неделе</i>).
+    • We will have dinner at a restaurant tonight. (<i>Мы поужинаем в ресторане сегодня вечером</i>).
     
 2. <b>Отрицательные предложения</b> (Negative Sentences):
-    • I will not finish my work today. (Я не закончу свою работу сегодня).
-    • He will not watch TV tonight. (Он не будет смотреть телевизор сегодня вечером).
-    • We will not go to the party tomorrow. (Мы не пойдем на вечеринку завтра).
+    • I will not finish my work today. (<i>Я не закончу свою работу сегодня</i>).
+    • He will not watch TV tonight. (<i>Он не будет смотреть телевизор сегодня вечером</i>).
+    • We will not go to the party tomorrow. (<i>Мы не пойдем на вечеринку завтра</i>).
 
 3. <b>Вопросительные предложения</b> (Question Sentences):
-    • Will you come to the meeting? (Ты придешь на собрание?).
-    • Will she call you later? (Она позвонит тебе позже?).
-    • Will we have enough time to finish the project? (У нас будет достаточно времени, чтобы закончить проект?).
+    • Will you come to the meeting? (<i>Ты придешь на собрание?</i>).
+    • Will she call you later? (<i>Она позвонит тебе позже?</i>).
+    • Will we have enough time to finish the project? (<i>У нас будет достаточно времени, чтобы закончить проект?</i>).
 """)
 
 future_continuous_structure_msg = ("""
@@ -268,19 +267,19 @@ future_continuous_structure_msg = ("""
 
 future_continuous_examples_msg = ("""
 1. <b>Положительные предложения</b> (Positive Sentences):
-    • I will be studying all day tomorrow. (Я буду заниматься учебой весь день завтра).
-    • She will be working on a project in the evening. (Она будет работать над проектом вечером).
-    • We will be watching a movie tonight. (Мы будем смотреть фильм сегодня вечером).
+    • I will be studying all day tomorrow. (<i>Я буду заниматься учебой весь день завтра</i>).
+    • She will be working on a project in the evening. (<i>Она будет работать над проектом вечером</i>).
+    • We will be watching a movie tonight. (<i>Мы будем смотреть фильм сегодня вечером</i>).
         
 2. <b>Отрицательные предложения</b> (Negative Sentences):
-    • I will not be playing video games tomorrow. (Я не буду играть в видеоигры завтра).
-    • He will not be sleeping when you call him. (Он не будет спать, когда ты ему позвонишь).
-    • We will not be eating at the restaurant next week. (Мы не будем есть в ресторане на следующей неделе).
+    • I will not be playing video games tomorrow. (<i>Я не буду играть в видеоигры завтра</i>).
+    • He will not be sleeping when you call him. (<i>Он не будет спать, когда ты ему позвонишь</i>).
+    • We will not be eating at the restaurant next week. (<i>Мы не будем есть в ресторане на следующей неделе</i>).
 
 3. <b>Вопросительные предложения</b> (Question Sentences):
-    • Will he be studying for the exam tomorrow? (Он будет готовиться к экзамену завтра?).
-    • Will they be watching TV in the evening? (Они будут смотреть телевизор вечером?).
-    • Will you be playing soccer next weekend? (Ты будешь играть в футбол на следующих выходных?).
+    • Will he be studying for the exam tomorrow? (<i>Он будет готовиться к экзамену завтра?</i>).
+    • Will they be watching TV in the evening? (<i>Они будут смотреть телевизор вечером?</i>).
+    • Will you be playing soccer next weekend? (<i>Ты будешь играть в футбол на следующих выходных?</i>).
 """)
 
 future_perfect_structure_msg = ("""
@@ -296,19 +295,19 @@ future_perfect_structure_msg = ("""
 
 future_perfect_examples_msg = ("""
 1. <b>Положительные предложения</b> (Positive Sentences):
-    • I will have finished my work by the end of the day. (Я закончу свою работу к концу дня).
-    • She will have written the report before the deadline. (Она напишет отчет до срока).
-    • We will have seen the movie by next week. (Мы увидим этот фильм к следующей неделе).
+    • I will have finished my work by the end of the day. (<i>Я закончу свою работу к концу дня</i>).
+    • She will have written the report before the deadline. (<i>Она напишет отчет до срока</i>).
+    • We will have seen the movie by next week. (<i>Мы увидим этот фильм к следующей неделе</i>).
         
 2. <b>Отрицательные предложения</b> (Negative Sentences):
-    • I will not have visited that city by then. (Я не посещу этот город к тому времени).
-    • He will not have finished reading the book by tomorrow. (Он не закончит читать книгу к завтрашнему дню).
-    • We will not have received any news about the project by the end of the month. (Мы не получим никаких новостей о проекте к концу месяца).
+    • I will not have visited that city by then. (<i>Я не посещу этот город к тому времени</i>).
+    • He will not have finished reading the book by tomorrow. (<i>Он не закончит читать книгу к завтрашнему дню</i>).
+    • We will not have received any news about the project by the end of the month. (<i>Мы не получим никаких новостей о проекте к концу месяца</i>).
 
 3. <b>Вопросительные предложения</b> (Question Sentences):
-    • Will you have completed the task by the deadline? (Ты закончишь задачу к сроку?).
-    • Will she have finished her work when you call her? (Она закончит работу, когда ты ей позвонишь?).
-    • Will they have left the party by the time we arrive? (Они уйдут с вечеринки к моменту нашего прибытия?).
+    • Will you have completed the task by the deadline? (<i>Ты закончишь задачу к сроку?</i>).
+    • Will she have finished her work when you call her? (<i>Она закончит работу, когда ты ей позвонишь?</i>).
+    • Will they have left the party by the time we arrive? (<i>Они уйдут с вечеринки к моменту нашего прибытия?</i>).
 """)
 
 future_perfect_continuous_structure_msg = ("""
@@ -324,19 +323,19 @@ future_perfect_continuous_structure_msg = ("""
 
 future_perfect_continuous_examples_msg = ("""
 1. <b>Положительные предложения</b> (Positive Sentences):
-    • I will have been studying for hours by the time you arrive. (Я буду заниматься учебой несколько часов к моменту твоего прибытия).
-    • She will have been working on the project all day. (Она будет работать над проектом весь день).
-    • We will have been traveling for weeks by the end of the trip. (Мы будем путешествовать несколько недель к концу путешествия).
+    • I will have been studying for hours by the time you arrive. (<i>Я буду заниматься учебой несколько часов к моменту твоего прибытия</i>).
+    • She will have been working on the project all day. (<i>Она будет работать над проектом весь день</i>).
+    • We will have been traveling for weeks by the end of the trip. (<i>Мы будем путешествовать несколько недель к концу путешествия</i>).
     
 2. <b>Отрицательные предложения</b> (Negative Sentences):
-    • I will not have been practicing piano lately. (Я не буду заниматься игрой на пианино в последнее время).
-    • He will not have been taking care of his health. (Он не будет следить за своим здоровьем).
-    • We will not have been attending the meetings regularly by next month. (Мы не будем регулярно посещать собрания к следующему месяцу).
+    • I will not have been practicing piano lately. (<i>Я не буду заниматься игрой на пианино в последнее время</i>).
+    • He will not have been taking care of his health. (<i>Он не будет следить за своим здоровьем</i>).
+    • We will not have been attending the meetings regularly by next month. (<i>Мы не будем регулярно посещать собрания к следующему месяцу</i>).
     
 3. <b>Вопросительные предложения</b> (Question Sentences):
-    • Will you have been working out at the gym for an hour? (Ты будешь заниматься в спортзале в течение часа?).
-    • Will she have been practicing her presentation before the meeting? (Она будет тренировать свою презентацию перед собранием?).
-    • Will we have been following the instructions correctly by the deadline? (Мы будем правильно следить за инструкциями к сроку?).
+    • Will you have been working out at the gym for an hour? (<i>Ты будешь заниматься в спортзале в течение часа?</i>).
+    • Will she have been practicing her presentation before the meeting? (<i>Она будет тренировать свою презентацию перед собранием?</i>).
+    • Will we have been following the instructions correctly by the deadline? (<i>Мы будем правильно следить за инструкциями к сроку?</i>).
 """)
 
 
