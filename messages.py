@@ -73,9 +73,9 @@ present_perfect_examples_msg = ("""
     • We have seen that movie before. (<i>Мы видели этот фильм раньше</i>).
 
 2. <b>Отрицательные предложения</b> (Negative Sentences):
-    • I have not visited the museum yet. (<i>Я еще не посетил музей).
-    • He has not learned how to swim. (<i>Он не научился плавать).
-    • We have not received any news. (<i>Мы не получили никаких новостей).
+    • I have not visited the museum yet. (<i>Я еще не посетил музей</i>).
+    • He has not learned how to swim. (<i>Он не научился плавать</i>).
+    • We have not received any news. (<i>Мы не получили никаких новостей</i>).
 
 3. <b>Вопросительные предложения</b> (<i>Question Sentences</i>):
     • Have you ever been to Paris? (<i>Ты когда-нибудь был в Париже?</i>).
