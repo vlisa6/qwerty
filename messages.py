@@ -2,7 +2,7 @@ present_simple_structure_msg = ("""
 • <b>Положительные предложения</b> (Positive Sentences):
     <i>Subject</i> + Verb(базовая форма глагола) + <i>Object</i>
 
-• <b>Отрицательныепредложения</b> (Negative Sentences): 
+• <b>Отрицательные предложения</b> (Negative Sentences): 
     <i>Subject</i> + do/does + not + Verb(базовая форма глагола) + <i>Object</i>
 
 • <b>Вопросительные предложения</b> (Question Sentences): 
